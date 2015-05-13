@@ -1,0 +1,10 @@
+ec2_key=${access_key}
+ec2_secret=${secret_key}
+api_key=MyAPIKey
+headless=0
+archive_s3_server=s3.amazonaws.com
+archive_s3_key=${archive_s3_key}
+archive_s3_secret=${archive_s3_secret}
+archive_s3_bucket=webpagetest
+archive_s3_url=http://s3.amazonaws.com/webpagetest
+archive_days=1
